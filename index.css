@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+.container {
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 200px;
+    /* color: white; */
+}
+#increment-btn {
+    background: rgb(145, 212, 145);
+}
+#save-btn {
+    background: rgb(211, 104, 104);
+}
